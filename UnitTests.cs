@@ -4,6 +4,7 @@ using Microsoft.VisualStudio.TestPlatform.TestExecutor;
 using Lab_1_2;
 
 namespace UnitTests
+//some comments added
 {
     public class UnitTest1
     {
@@ -24,4 +25,4 @@ namespace UnitTests
             Assert.Equal(expected, actual);
         }
     }
-}
+} //some comments added
