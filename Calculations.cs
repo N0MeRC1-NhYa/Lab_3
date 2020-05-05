@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace XUnitTestProLab2
+//some comments added
 {
     class NewCalculations
     {
@@ -23,4 +24,5 @@ namespace XUnitTestProLab2
             }
         }
     }
+    //some comments added
 }
