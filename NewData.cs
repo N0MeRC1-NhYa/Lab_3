@@ -38,5 +38,10 @@ namespace RepLab_2
 
             }
         }
+        public string textOper(int a, int b, char c)
+        {
+            Console.WriteLine(a + " " + newOper(c) + " " + b + calc(a, b, c));
+        }
+
     }
 }
